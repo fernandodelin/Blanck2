@@ -62,7 +62,7 @@ Este projeto foi desenvolvido como parte de um estudo sobre APIs sem framework, 
 
 ## 📝 Licença
 
-Este projeto está sob a licença [SUA_LICENCA] - consulte o arquivo LICENSE.md para detalhes.
+Este projeto está sob a licença MIT - consulte o arquivo LICENSE.md para detalhes.
 
 ## ✨ Agradecimentos
 
